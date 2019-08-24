@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="libraries" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6496c0f5-b298-4c62-b2af-fd4226071b08" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/nbodies$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1542675425701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/caltech/cs2/project01/NBodySimulation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-249">
+              <caret line="52" column="62" selection-start-line="52" selection-start-column="62" selection-end-line="52" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/edu/caltech/cs2/helpers/Images.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="72" selection-start-line="72" selection-end-line="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/caltech/cs2/libraries/FakeBody.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-382">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/caltech/cs2/libraries/IBody.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/caltech/cs2/project01/Body.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="83" column="45" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+                <element signature="e#2059#2060#0" expanded="true" />
+                <element signature="e#2134#2135#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/simulations/planets.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mock</find>
+      <find>vars</find>
+      <find>IBody</find>
+      <find>xAccel</find>
+      <find>fakebody i</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/NBodies.java" />
+        <option value="$PROJECT_DIR$/planets.txt" />
+        <option value="$PROJECT_DIR$/src/Vector2D.java" />
+        <option value="$PROJECT_DIR$/1body.txt" />
+        <option value="$PROJECT_DIR$/src/NBody.java" />
+        <option value="$PROJECT_DIR$/src/Body.java" />
+        <option value="$PROJECT_DIR$/src/NBodySimulation.java" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/project01/edu/caltech/cs2/libraries/StdDraw.java" />
+        <option value="$PROJECT_DIR$/tests/helpers/FileSource.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/helpers/FileSource.java" />
+        <option value="$PROJECT_DIR$/tests/data/trace5.txt" />
+        <option value="$PROJECT_DIR$/tests/data/planets.out.txt" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/helpers/Inspection.java" />
+        <option value="$PROJECT_DIR$/data/mock/values-earth.txt" />
+        <option value="$PROJECT_DIR$/data/mock/values-mars.txt" />
+        <option value="$PROJECT_DIR$/data/mock/values-mercury.txt" />
+        <option value="$PROJECT_DIR$/data/mock/values-sun.txt" />
+        <option value="$PROJECT_DIR$/data/mock/values-venus.txt" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/project01/MockBody.java" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/libraries/MockBody.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/helpers/ImageFileSource.java" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/libraries/B.java" />
+        <option value="$PROJECT_DIR$/tests/data/planets-out-fake.txt" />
+        <option value="$PROJECT_DIR$/tests/data/planets-out-fake-0.txt" />
+        <option value="$PROJECT_DIR$/tests/data/planets-out-fake-1.txt" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/helpers/ImageFileSourceProvider.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/helpers/Images.java" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/libraries/StdDraw.java" />
+        <option value="$PROJECT_DIR$/data/fake/values-earth.txt" />
+        <option value="$PROJECT_DIR$/data/fake/values-venus.txt" />
+        <option value="$PROJECT_DIR$/data/fake/values-mars.txt" />
+        <option value="$PROJECT_DIR$/data/fake/values-mercury.txt" />
+        <option value="$PROJECT_DIR$/data/fake/values-sun.txt" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/helpers/Reflection.java" />
+        <option value="$PROJECT_DIR$/tests/data/printState-out-2.txt" />
+        <option value="$PROJECT_DIR$/tests/data/printState-out-3.txt" />
+        <option value="$PROJECT_DIR$/tests/data/printState-out-1.txt" />
+        <option value="$PROJECT_DIR$/tests/data/1body-out.txt" />
+        <option value="$PROJECT_DIR$/tests/data/3body-out.txt" />
+        <option value="$PROJECT_DIR$/tests/data/galaxy-out.txt" />
+        <option value="$PROJECT_DIR$/tests/data/planets-out-2.txt" />
+        <option value="$PROJECT_DIR$/tests/data/planets-out-3.txt" />
+        <option value="$PROJECT_DIR$/tests/data/planets-out-4.txt" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/project01/BodyTests.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/project01/NBodySimulationTests.java" />
+        <option value="$PROJECT_DIR$/../project01-reference-solution/src/edu/caltech/cs2/project01/Body.java" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/libraries/Vector2D.java" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/libraries/FakeBody.java" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/libraries/IBody.java" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/project01/NBodySimulation.java" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/project01/Body.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="libraries" pattern="src:edu.caltech.cs2.libraries.*" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1278" />
+    <option name="height" value="678" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project01-scschnei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project01-scschnei" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project01-scschnei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project01-scschnei" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project01-scschnei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project01-scschnei" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="simulations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project01-scschnei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project01-scschnei" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project01-scschnei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project01-scschnei" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cs2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project01-scschnei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project01-scschnei" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cs2" type="462c0819:PsiDirectoryNode" />
+              <item name="libraries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project01-scschnei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project01-scschnei" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cs2" type="462c0819:PsiDirectoryNode" />
+              <item name="project01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project01-scschnei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/blank/IdeaProjects/project01-nbodysimulation/src/edu/caltech/cs2/project01/Body.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547587409256" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab01-basenji/lab01-wikipedia.iml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../Downloads/IdeaProjects/project01/tests/edu/caltech/cs2/project01/BodyTests.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/data" />
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.caltech.cs2.helpers" />
+      <recent name="edu.caltech.cs2.project01" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/data" />
+      <recent name="$PROJECT_DIR$/data/mock" />
+      <recent name="$PROJECT_DIR$/data/simulations" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.C Tests">
+    <configuration name="NBodySimulation" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.caltech.cs2.project01.NBodySimulation" />
+      <module name="project01-nbodysimulation" />
+      <option name="PROGRAM_PARAMETERS" value="157788000.0 25000.0 data/simulations/spiral.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="NBody" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A Tests" type="JUnit" factoryName="JUnit">
+      <module name="project01-nbodysimulation" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <tag value="A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B Tests" type="JUnit" factoryName="JUnit">
+      <module name="project01-nbodysimulation" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <tag value="B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C Tests" type="JUnit" factoryName="JUnit">
+      <module name="project01-nbodysimulation" />
+      <option name="PACKAGE_NAME" value="edu.caltech.cs2.project01" />
+      <option name="MAIN_CLASS_NAME" value="edu.caltech.cs2.project01.NBodySimulationTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <tag value="C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NBodySimulation" />
+      <item itemvalue="JUnit.A Tests" />
+      <item itemvalue="JUnit.B Tests" />
+      <item itemvalue="JUnit.C Tests" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6496c0f5-b298-4c62-b2af-fd4226071b08" name="Default Changelist" comment="" />
+      <created>1542053435590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542053435590</updated>
+      <workItem from="1542053439873" duration="1852000" />
+      <workItem from="1542333663671" duration="1268000" />
+      <workItem from="1542659801709" duration="6987000" />
+      <workItem from="1542741925168" duration="6230000" />
+      <workItem from="1542829747110" duration="7000" />
+      <workItem from="1542830179593" duration="338000" />
+      <workItem from="1542830730792" duration="54000" />
+      <workItem from="1542830867494" duration="102000" />
+      <workItem from="1542991472183" duration="48241000" />
+      <workItem from="1543198954089" duration="25430000" />
+      <workItem from="1543558040300" duration="1193000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1547337169632</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547337169632</updated>
+    </task>
+    <task id="LOCAL-00002" summary="nbody pre debugging">
+      <created>1547408730928</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547408730928</updated>
+    </task>
+    <task id="LOCAL-00003" summary="nbody pre debugging">
+      <created>1547418318223</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547418318223</updated>
+    </task>
+    <task id="LOCAL-00004" summary="nbody partially debugged">
+      <created>1547422987900</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547422987900</updated>
+    </task>
+    <task id="LOCAL-00005" summary="nbody partially debugged">
+      <created>1547424029653</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547424029653</updated>
+    </task>
+    <task id="LOCAL-00006" summary="nbody partially debugged">
+      <created>1547426282910</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1547426282910</updated>
+    </task>
+    <task id="LOCAL-00007" summary="nbody partially debugged">
+      <created>1547426403085</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1547426403085</updated>
+    </task>
+    <task id="LOCAL-00008" summary="nbody partially debugged">
+      <created>1547426500762</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1547426500762</updated>
+    </task>
+    <task id="LOCAL-00009" summary="C tests should be passed">
+      <created>1547426769929</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1547426769929</updated>
+    </task>
+    <task id="LOCAL-00010" summary="start of body">
+      <created>1547430279811</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1547430279811</updated>
+    </task>
+    <task id="LOCAL-00011" summary="start of body">
+      <created>1547431000527</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1547431000527</updated>
+    </task>
+    <task id="LOCAL-00012" summary="body cont.">
+      <created>1547436600330</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1547436600330</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Body pre debug">
+      <created>1547436955642</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1547436955642</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Body partial debug">
+      <created>1547437765647</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1547437765647</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Body debugged">
+      <created>1547439137965</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1547439137965</updated>
+    </task>
+    <task id="LOCAL-00016" summary="partial debug done">
+      <created>1547440349828</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1547440349828</updated>
+    </task>
+    <task id="LOCAL-00017" summary="debugging complete">
+      <created>1547441466053</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1547441466053</updated>
+    </task>
+    <task id="LOCAL-00018" summary="comments / refinements">
+      <created>1547587317892</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1547587317892</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="B_Tests - 2019.01.13 at 20h 28m 23s.xml">
+      <configuration name="B Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="C_Tests - 2019.01.13 at 20h 28m 43s.xml">
+      <configuration name="C Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="C_Tests - 2019.01.13 at 20h 29m 38s.xml">
+      <configuration name="C Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="C_Tests - 2019.01.13 at 20h 31m 56s.xml">
+      <configuration name="C Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="C_Tests - 2019.01.13 at 20h 32m 12s.xml">
+      <configuration name="C Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="C_Tests - 2019.01.13 at 20h 33m 10s.xml">
+      <configuration name="C Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="C_Tests - 2019.01.13 at 20h 47m 00s.xml">
+      <configuration name="C Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="A_Tests - 2019.01.15 at 13h 19m 40s.xml">
+      <configuration name="A Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="B_Tests - 2019.01.15 at 13h 19m 49s.xml">
+      <configuration name="B Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="C_Tests - 2019.01.15 at 13h 20m 19s.xml">
+      <configuration name="C Tests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="91702000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30833334" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Query Editor" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32786885" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29836065" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32884097" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32786885" />
+      <window_info anchor="bottom" id="CheckStyle" order="12" />
+      <window_info anchor="bottom" id="Log Viewer" order="13" />
+      <window_info anchor="bottom" id="DB Execution Console" order="14" />
+      <window_info anchor="bottom" id="SFDX" order="15" />
+      <window_info anchor="bottom" id="Execute Anonymous" order="16" />
+      <window_info anchor="bottom" id="Log Manager" order="17" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="18" />
+      <window_info anchor="bottom" id="Salesforce" order="19" />
+      <window_info anchor="bottom" id="SOQL Query" order="20" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30833334" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Query Editor" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32786885" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29836065" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32884097" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32786885" />
+      <window_info anchor="bottom" id="CheckStyle" order="12" />
+      <window_info anchor="bottom" id="Log Viewer" order="13" />
+      <window_info anchor="bottom" id="DB Execution Console" order="14" />
+      <window_info anchor="bottom" id="SFDX" order="15" />
+      <window_info anchor="bottom" id="Execute Anonymous" order="16" />
+      <window_info anchor="bottom" id="Log Manager" order="17" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="18" />
+      <window_info anchor="bottom" id="Salesforce" order="19" />
+      <window_info anchor="bottom" id="SOQL Query" order="20" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+    </ignored-roots>
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="nbody pre debugging" />
+    <MESSAGE value="nbody partially debugged" />
+    <MESSAGE value="C tests should be passed" />
+    <MESSAGE value="start of body" />
+    <MESSAGE value="body cont." />
+    <MESSAGE value="Body pre debug" />
+    <MESSAGE value="Body partial debug" />
+    <MESSAGE value="Body debugged" />
+    <MESSAGE value="partial debug done" />
+    <MESSAGE value="debugging complete" />
+    <MESSAGE value="comments / refinements" />
+    <option name="LAST_COMMIT_MESSAGE" value="comments / refinements" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/fake/values-mercury.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="6313" selection-start-line="6313" selection-end-line="6313" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/fake/values-venus.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="6313" selection-start-line="6313" selection-end-line="6313" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/fake/values-sun.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="6313" selection-start-line="6313" selection-end-line="6313" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/data/planets-out.txt" />
+    <entry file="file://$PROJECT_DIR$/tests/data/printState-out-2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/data/printState-out-3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/data/printState-out-1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/data/planets-out-1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/data/1body-out.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/simulations/3body.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/data/3body-out.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="71" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/simulations/binary.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/simulations/3body-zero-gravity.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/simulations/galaxy.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/data/galaxy-out.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="1001" column="72" selection-start-line="1001" selection-start-column="72" selection-end-line="1001" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/data/empty.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/data/planets-initial.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/data/planets-out-2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="72" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/data/planets-out-3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="72" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/data/planets-out-4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="72" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/fake/values-earth.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="6273" column="1" selection-start-line="6273" selection-start-column="1" selection-end-line="6273" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/data/planets-final-0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java" />
+    <entry file="file://$PROJECT_DIR$/tests/edu/caltech/cs2/helpers/Reflection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Double.java" />
+    <entry file="file://$PROJECT_DIR$/../project01-reference-solution/src/edu/caltech/cs2/project01/NBodySimulation.java" />
+    <entry file="file://$PROJECT_DIR$/../project01-reference-solution/src/edu/caltech/cs2/project01/Body.java" />
+    <entry file="file://$PROJECT_DIR$/out/test/project01-nbodysimulation/edu/caltech/cs2/project01/NBodySimulationTests.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2313">
+          <folding>
+            <element signature="e#0#8315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/caltech/cs2/libraries/Vector2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/test/project01-nbodysimulation/data/1body-out.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lab01-basenji/lab01-wikipedia.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/fake/values-mars.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107321">
+          <caret line="6313" selection-start-line="6313" selection-end-line="6313" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/simulations/8star-rotation.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/simulations/bowling.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/simulations/atom.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/simulations/antimatter.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/test/project01-nbodysimulation/data/planets-out-1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/test/project01-nbodysimulation/data/planets-out-2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/test/project01-nbodysimulation/data/planets-out-3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/simulations/1body.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/edu/caltech/cs2/project01/BodyTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="283" column="21" lean-forward="true" selection-start-line="283" selection-start-column="21" selection-end-line="283" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/caltech/cs2/libraries/IBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/caltech/cs2/libraries/FakeBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-382">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/edu/caltech/cs2/helpers/Images.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/simulations/its-a-trap.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/simulations/binaryStars.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/edu/caltech/cs2/project01/NBodySimulationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="121" column="14" lean-forward="true" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/simulations/planets.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/simulations/kaleidoscope.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/caltech/cs2/project01/NBodySimulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-249">
+          <caret line="52" column="62" selection-start-line="52" selection-start-column="62" selection-end-line="52" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/caltech/cs2/project01/Body.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="83" column="45" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#2059#2060#0" expanded="true" />
+            <element signature="e#2134#2135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>JRAW-1.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>project01-nbodysimulation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.github.javaparser:javaparser-core:3.5.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>libraries</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="libraries" />
+          </order>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

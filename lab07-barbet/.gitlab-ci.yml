@@ -1,0 +1,6 @@
+static:
+      script: "/testers/cs2/lab07/static"
+A:
+      script: "/testers/cs2/lab07/A/test"
+A+:
+      script: "/testers/cs2/lab07/A+/test"

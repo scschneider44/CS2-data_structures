@@ -1,0 +1,2 @@
+Can it fly? (y/n)? Does it have feathers? (y/n)? Is it extinct? (y/n)? Does it eat nuts? (y/n)? Does it have fur? (y/n)? Does it hang upside down? (y/n)? Does it suck blood? (y/n)? Is it really really big? (y/n)? Does it hibernate? (y/n)? Does it eat fruit? (y/n)? Does it eat fruit AND suck blood? (y/n)? I guess that your object is vampire bat!
+Am I right? (y/n)? Awesome! I win!

@@ -1,0 +1,11 @@
+I: Is it an animal?
+I: Can it fly?
+L: bird
+I: Does it have a tail?
+L: mouse
+L: spider
+I: Does it have wheels?
+L: bicycle
+I: Is it a student?
+L: TA
+L: teacher

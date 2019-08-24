@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d8f49d5-a7a8-40cd-89b4-170587b4708e" name="Default Changelist" comment="final debugging for goal tests">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/caltech/cs2/lab01/WikipediaPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/caltech/cs2/lab01/WikipediaPage.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/lab01_wikipedia$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1542555488311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="196" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/caltech/cs2/lab01/WikipediaPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="76" column="43" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="43" />
+              <folding>
+                <element signature="e#606#607#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#1289#1290#0" expanded="true" />
+                <element signature="e#1321#1322#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/test/lab01-wikipedia/edu/caltech/cs2/lab01/WikipediaMainTests.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-134">
+              <folding>
+                <element signature="e#0#1286#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/caltech/cs2/lab01/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/WikipediaPageTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-396">
+              <caret line="120" selection-start-line="120" selection-end-line="120" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/data/satellite_galaxies_of_the_milky_way_main_output.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/caltech/cs2/lab01/libraries/Wikipedia.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-714">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$</find>
+      <find>John</find>
+      <find>getNextPa</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WikipediaPageTests.java" />
+        <option value="$PROJECT_DIR$/src/WikipediaPageTests.java" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/lab01/tests/WikipediaPageTests.java" />
+        <option value="$PROJECT_DIR$/src/Wikipedia.java" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/lab01/api/Main.java" />
+        <option value="$PROJECT_DIR$/src/WikipediaPage.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/WikipediaPageTest.java" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/lab01/WikipediaFunction.java" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/lab01/WikipediaLink.java" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/lab01/WikipediaMarkup.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/MainTest.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/tests/MainTest.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/tests/CaptureSystemOutput.java" />
+        <option value="$PROJECT_DIR$/tests/RangeSource.java" />
+        <option value="$PROJECT_DIR$/tests/CaptureSystemOutput.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/tests/helpers/CaptureSystemOutput.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/tests/helpers/RangeArgumentsProvider.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/tests/helpers/RangeSource.java" />
+        <option value="$PROJECT_DIR$/tests/output1.txt" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/tests/helpers/TestReflection.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/tests/helpers/Reflection.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/tests/helpers/FileSource.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/tests/output1.txt" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/tests/WikipediaPageTests.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/tests/selagama_colony.txt" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/tests/sandycove_island.txt" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/tests/helpers/FileSourceProvider.java" />
+        <option value="$PROJECT_DIR$/tests/helpers/FileSourceProvider.java" />
+        <option value="$PROJECT_DIR$/tests/helpers/FileSource.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/tests/WikipediaMainTests.java" />
+        <option value="$PROJECT_DIR$/tests/lab01/WikipediaPageTests.java" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/lab01/api/Wikipedia.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/WikipediaMainTests.java" />
+        <option value="$PROJECT_DIR$/tests/data/satellite_galaxies_of_the_milky_way_main_output.txt" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/lab01/libraries/X.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/libraries/Wikipedia.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/libraries/WikipediaX.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/libraries/Wikipedia.java" />
+        <option value="$PROJECT_DIR$/.gitlab-ci.yml" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/helpers/CaptureSystemOutput.java" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/lab01/libraries/Wikipedia.java" />
+        <option value="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/WikipediaPageTests.java" />
+        <option value="$PROJECT_DIR$/tests/data/links_for_rsa.txt" />
+        <option value="$PROJECT_DIR$/tests/data/links_for_pizza_farm.txt" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/lab01/Main.java" />
+        <option value="$PROJECT_DIR$/src/edu/caltech/cs2/lab01/WikipediaPage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="38" />
+    <option name="y" value="35" />
+    <option name="width" value="1402" />
+    <option name="height" value="834" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab01-basenji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab01-basenji" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/blank/IdeaProjects/lab01-wikipedia/src/edu/caltech/cs2/lab01/Main.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547183563342" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/edu/caltech/cs2/lab01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.caltech.cs2.lab01" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/tests/data" />
+      <recent name="$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/tests" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.caltech.cs2.lab01" />
+      <recent name="" />
+      <recent name="tests" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.caltech.cs2.lab01.libraries" />
+      <recent name="edu.caltech.cs2.libraries" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/wikipedia" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="edu.caltech.cs2.lab01.tests.helpers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Stretch Goal Tests">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.caltech.cs2.lab01.Main" />
+      <module name="lab01-wikipedia" />
+      <option name="PROGRAM_PARAMETERS" value="Satellite_galaxies_of_the_Milky_Way" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Goal Tests" type="JUnit" factoryName="JUnit">
+      <module name="lab01-wikipedia" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <tag value="B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Minimum Tests" type="JUnit" factoryName="JUnit">
+      <module name="lab01-wikipedia" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <tag value="C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stretch Goal Tests" type="JUnit" factoryName="JUnit">
+      <module name="lab01-wikipedia" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <tag value="A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="lab01-wikipedia" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.Goal Tests" />
+      <item itemvalue="JUnit.Minimum Tests" />
+      <item itemvalue="JUnit.Stretch Goal Tests" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d8f49d5-a7a8-40cd-89b4-170587b4708e" name="Default Changelist" comment="" />
+      <created>1542394323167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542394323167</updated>
+      <workItem from="1542394326274" duration="12005000" />
+      <workItem from="1542562875744" duration="24825000" />
+      <workItem from="1542741923179" duration="10818000" />
+      <workItem from="1542832198825" duration="391000" />
+      <workItem from="1542889792275" duration="2422000" />
+      <workItem from="1542991053586" duration="342000" />
+      <workItem from="1543030246351" duration="3746000" />
+      <workItem from="1543189512785" duration="725000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updates implementation and adds tests for most of the functionality">
+      <created>1542555427665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542555427665</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1542562961388</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542562961388</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1542588002467</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542588002467</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1542588044321</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542588044321</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1542748278884</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542748278884</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1542757054329</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542757054329</updated>
+    </task>
+    <task id="LOCAL-00007" summary="testing tagging">
+      <created>1542825666600</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1542825666600</updated>
+    </task>
+    <task id="LOCAL-00008" summary="completed version with fixed test helpers">
+      <created>1542826065483</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1542826065483</updated>
+    </task>
+    <task id="LOCAL-00009" summary="completed version with fixed test helpers">
+      <created>1542826939834</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1542826939834</updated>
+    </task>
+    <task id="LOCAL-00010" summary="completed version of reference solution">
+      <created>1542990223381</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1542990223381</updated>
+    </task>
+    <task id="LOCAL-00011" summary="(fixed tests for new WikipediaPage interface) + completed version of reference solution">
+      <created>1542990348391</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1542990348391</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Edits Wikipedia API to not output files">
+      <created>1543097489460</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1543097489460</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Edits which files are displayed by default">
+      <created>1543097609228</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1543097609228</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Edits which files are displayed by default">
+      <created>1543097654258</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1543097654258</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updates tests to be slightly better">
+      <created>1543190177379</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1543190177380</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Updates open files on clone">
+      <created>1543190309076</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1543190309077</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Cleaning up the wiki titles">
+      <created>1547170126727</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1547170126728</updated>
+    </task>
+    <task id="LOCAL-00018" summary="debugging wiki titles">
+      <created>1547170967366</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1547170967366</updated>
+    </task>
+    <task id="LOCAL-00019" summary="making goal methods">
+      <created>1547180717946</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1547180717946</updated>
+    </task>
+    <task id="LOCAL-00020" summary="final debugging for goal tests">
+      <created>1547186830929</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1547186830929</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Goal_Tests - 2019.01.10 at 21h 22m 20s.xml">
+      <configuration name="Goal Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Goal_Tests - 2019.01.10 at 21h 23m 29s.xml">
+      <configuration name="Goal Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Goal_Tests - 2019.01.10 at 21h 25m 56s.xml">
+      <configuration name="Goal Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Goal_Tests - 2019.01.10 at 21h 26m 34s.xml">
+      <configuration name="Goal Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Goal_Tests - 2019.01.10 at 21h 33m 08s.xml">
+      <configuration name="Goal Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Goal_Tests - 2019.01.10 at 21h 57m 14s.xml">
+      <configuration name="Goal Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Goal_Tests - 2019.01.10 at 21h 58m 48s.xml">
+      <configuration name="Goal Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Goal_Tests - 2019.01.10 at 21h 59m 42s.xml">
+      <configuration name="Goal Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Stretch_Goal_Tests - 2019.01.10 at 22h 37m 59s.xml">
+      <configuration name="Stretch Goal Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Stretch_Goal_Tests - 2019.01.10 at 23h 14m 51s.xml">
+      <configuration name="Stretch Goal Tests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="55274000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30937973" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49394855" visible="true" weight="0.2908497" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4977307" weight="0.32843137" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49848714" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5060514" side_tool="true" visible="true" weight="0.2908497" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49016643" weight="0.32843137" />
+      <window_info anchor="bottom" id="CheckStyle" order="12" weight="0.32884097" />
+      <window_info anchor="bottom" id="Log Viewer" order="13" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="14" />
+      <window_info anchor="bottom" id="SOQL Query" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32941177" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32941177" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32941177" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <MESSAGE value="Updates implementation and adds tests for most of the functionality" />
+    <MESSAGE value="update" />
+    <MESSAGE value="testing tagging" />
+    <MESSAGE value="completed version with fixed test helpers" />
+    <MESSAGE value="completed version of reference solution" />
+    <MESSAGE value="(fixed tests for new WikipediaPage interface) + completed version of reference solution" />
+    <MESSAGE value="Edits Wikipedia API to not output files" />
+    <MESSAGE value="Edits which files are displayed by default" />
+    <MESSAGE value="Updates tests to be slightly better" />
+    <MESSAGE value="Updates open files on clone" />
+    <MESSAGE value="Cleaning up the wiki titles" />
+    <MESSAGE value="debugging wiki titles" />
+    <MESSAGE value="making goal methods" />
+    <MESSAGE value="final debugging for goal tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="final debugging for goal tests" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/src.iml" />
+    <entry file="file://$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/WikipediaPageTest.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/reflect/Method.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/caltech/cs2/lab01/WikipediaFunction.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/caltech/cs2/lab01/WikipediaMarkup.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.4.0-SNAPSHOT/junit-jupiter-api-5.4.0-SNAPSHOT.jar!/org/junit/jupiter/api/extension/Extensions.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.4.0-SNAPSHOT/junit-jupiter-params-5.4.0-SNAPSHOT.jar!/org/junit/jupiter/params/provider/ArgumentsProvider.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.4.0-SNAPSHOT/junit-jupiter-params-5.4.0-SNAPSHOT.jar!/org/junit/jupiter/params/support/AnnotationConsumer.class" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/IntStream.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.4.0-SNAPSHOT/junit-jupiter-params-5.4.0-SNAPSHOT.jar!/org/junit/jupiter/params/provider/Arguments.class" />
+    <entry file="file://$PROJECT_DIR$/tests/edu/caltech/cs2/helpers/Reflection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/data/selagama_colony.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/edu/caltech/cs2/helpers/FileSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/edu/caltech/cs2/helpers/FileSourceProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="15" column="84" selection-start-line="15" selection-start-column="84" selection-end-line="15" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/data/sandycove_island.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" />
+    <entry file="file://$PROJECT_DIR$/tests/SanityTests.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
+    <entry file="file://$PROJECT_DIR$/Sagittarius Stream" />
+    <entry file="file://$PROJECT_DIR$/tests/wikipedia/aquarius 2" />
+    <entry file="file://$PROJECT_DIR$/tests/wikipedia/canis major dwarf galaxy" />
+    <entry file="file://$PROJECT_DIR$/tests/wikipedia/leo v (dwarf galaxy)" />
+    <entry file="file://$PROJECT_DIR$/tests/wikipedia/kim 2" />
+    <entry file="file://$PROJECT_DIR$/tests/wikipedia/parsec" />
+    <entry file="file://$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/libraries/Wikipedia.java" />
+    <entry file="file://$PROJECT_DIR$/tests/edu/caltech/cs2/helpers/CaptureSystemOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab01-wikipedia.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/data/links_for_rsa.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/lab01-wikipedia/edu/caltech/cs2/lab01/libraries/Wikipedia.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1304">
+          <folding>
+            <element signature="e#0#4185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/test/lab01-wikipedia/data/selagama_colony.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/test/lab01-wikipedia/data/satellite_galaxies_of_the_milky_way_main_output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/test/lab01-wikipedia/data/sandycove_island.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/test/lab01-wikipedia/data/links_for_rsa.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2227">
+          <caret line="131" column="3" lean-forward="true" selection-start-line="131" selection-start-column="3" selection-end-line="131" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/test/lab01-wikipedia/data/links_for_pizza_farm.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/data/links_for_pizza_farm.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/WikipediaMainTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/caltech/cs2/lab01/libraries/Wikipedia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/caltech/cs2/lab01/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/edu/caltech/cs2/lab01/WikipediaPageTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/data/satellite_galaxies_of_the_milky_way_main_output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/test/lab01-wikipedia/edu/caltech/cs2/lab01/WikipediaMainTests.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-134">
+          <folding>
+            <element signature="e#0#1286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/caltech/cs2/lab01/WikipediaPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="76" column="43" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="43" />
+          <folding>
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#1289#1290#0" expanded="true" />
+            <element signature="e#1321#1322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>JRAW-1.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lab01-wikipedia</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>org.hamcrest:hamcrest-all:1.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

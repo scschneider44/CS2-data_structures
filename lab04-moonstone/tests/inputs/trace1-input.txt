@@ -1,0 +1,23 @@
+inputs/new-file.txt
+dog
+
+y
+y
+
+n
+computer
+Is it an animal?
+n
+y
+
+y
+n
+frog
+Does it hop?
+y
+y
+
+y
+n
+y
+n

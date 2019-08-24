@@ -1,0 +1,6 @@
+static:
+      script: "/testers/cs2/lab09/static"
+A:
+      script: "/testers/cs2/lab09/A/test"
+B:
+      script: "/testers/cs2/lab09/B/test"

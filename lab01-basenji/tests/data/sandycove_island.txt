@@ -1,0 +1,50 @@
+{{Infobox islands
+| name             = Sandycove Island
+| native_name      = Cnoc an Rois
+| native_name_link = Irish language
+| nickname        = 
+| image_name       = Sandy_Cove_Island_from_the_Irish_Mainland_-_geograph.org.uk_-_596664.jpg
+| image_size       = 
+| image_caption    = Sandy Cove Island from the Irish Mainland
+| map = island of Ireland
+| map_caption = Location in Ireland
+| location         = 
+| coordinates      = {{coord|51|40|34|N|08|31|08|W|region:IE_type:isle|display=inline}}
+| archipelago      = 
+| total_islands    = 
+| major_islands    = 
+| area_km2         = 
+| rank             = 
+| length_km        = 
+| width_km         = 
+| coastline_km     = 
+| elevation_m      = 
+| highest_mount    = 
+| country          = [[Republic of Ireland|Ireland]]
+| country_admin_divisions_title     = County
+| country_admin_divisions           = [[County Cork]]
+| demonym          = 
+| population       = 
+| ethnic_groups    = [[Irish people|Irish]]
+}}
+'''Sandycove Island''' (''Cnoc an Rois'' in [[Irish language|Irish]])<ref>{{cite web|title=Cnoc an Rois|url=http://www.logainm.ie/11055.aspx|website=Placenames Database of Ireland|publisher=Dublin City University|accessdate=23 October 2014}}</ref> is a small island and [[townland]] at the mouth of Ardkilly Creek on the south coast of [[Ireland]], just to the west of the [[Castlepark]] peninsula, which forms the western side of the entrance to [[Kinsale]] harbour in [[County Cork]].
+
+It is located directly opposite the tiny hamlet of Sandycove (population around 100) and no more than {{convert|200|m|ft|0}} off the shore.
+
+The island is uninhabited except for a herd of feral [[goat]]s which has grazed on the island for generations, an indication that there is probably a reliable source of fresh water on the island.
+
+Over the centuries a number of ships have foundered on the rocks off the island, including the 147-ton brig Eliza which went aground on the island in 1826.<ref>http://www.irishwrecksonline.net/Lists/CorkListG.htm</ref>
+
+The [https://web.archive.org/web/20080302075727/http://www.corkmasters.ie/html/challenge.htm Sandycove Island Challenge] is an open-water swimming race. It has been held annually  since 1994.
+The course is from the slipway at Sandycove on the mainland, around Sandycove Island and back to the slipway. The total distance is approximately 1,600m. If sea conditions are unsuitable on the day, a more sheltered course is followed.
+
+== References ==
+
+{{reflist}}
+
+{{coord|51.676015|N|8.518782|W|region:IE_type:city|display=title}}
+
+[[Category:Islands of County Cork]]
+
+
+{{Cork-geo-stub}}
